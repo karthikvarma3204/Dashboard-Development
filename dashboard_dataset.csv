@@ -1,0 +1,101 @@
+Date,Sales,Profit,Category,Region
+2024-01-01,8764,3158,Electronics,West
+2024-01-02,2075,856,Electronics,North
+2024-01-03,6122,4096,Clothing,West
+2024-01-04,9190,1794,Books,South
+2024-01-05,8841,1407,Clothing,West
+2024-01-06,7751,2695,Books,West
+2024-01-07,6135,1318,Clothing,East
+2024-01-08,7373,583,Home & Kitchen,West
+2024-01-09,5999,4783,Books,South
+2024-01-10,3964,4088,Books,North
+2024-01-11,9022,3649,Home & Kitchen,West
+2024-01-12,6125,1221,Clothing,North
+2024-01-13,2133,381,Electronics,South
+2024-01-14,5238,729,Electronics,West
+2024-01-15,7026,2566,Clothing,North
+2024-01-16,6786,4418,Home & Kitchen,East
+2024-01-17,7572,4275,Electronics,East
+2024-01-18,9357,2829,Home & Kitchen,South
+2024-01-19,7093,3564,Clothing,West
+2024-01-20,9312,2481,Home & Kitchen,South
+2024-01-21,3997,3036,Home & Kitchen,North
+2024-01-22,7311,1451,Home & Kitchen,North
+2024-01-23,4155,2405,Electronics,South
+2024-01-24,1420,3538,Home & Kitchen,North
+2024-01-25,3835,936,Books,South
+2024-01-26,5363,3549,Home & Kitchen,South
+2024-01-27,3085,4650,Home & Kitchen,East
+2024-01-28,8069,2166,Clothing,North
+2024-01-29,8470,3101,Home & Kitchen,South
+2024-01-30,3385,532,Home & Kitchen,East
+2024-01-31,3377,4447,Electronics,South
+2024-02-01,3857,4991,Books,North
+2024-02-02,2455,4014,Clothing,East
+2024-02-03,2890,3733,Books,North
+2024-02-04,9841,3057,Home & Kitchen,West
+2024-02-05,3428,2885,Electronics,West
+2024-02-06,7209,320,Books,West
+2024-02-07,3317,2260,Books,West
+2024-02-08,9238,4755,Books,East
+2024-02-09,9048,2344,Books,North
+2024-02-10,8347,3908,Books,South
+2024-02-11,3115,879,Electronics,South
+2024-02-12,8282,2362,Home & Kitchen,South
+2024-02-13,8193,4831,Electronics,North
+2024-02-14,1072,1139,Electronics,East
+2024-02-15,4457,2380,Electronics,North
+2024-02-16,3022,1903,Electronics,West
+2024-02-17,5085,1488,Home & Kitchen,South
+2024-02-18,8588,3608,Home & Kitchen,North
+2024-02-19,2543,2218,Electronics,West
+2024-02-20,5496,3883,Books,West
+2024-02-21,6783,4155,Home & Kitchen,East
+2024-02-22,5749,1682,Home & Kitchen,South
+2024-02-23,6045,4117,Electronics,North
+2024-02-24,1847,3545,Books,West
+2024-02-25,1934,557,Books,West
+2024-02-26,2395,4406,Electronics,South
+2024-02-27,7574,2918,Electronics,North
+2024-02-28,1538,3431,Home & Kitchen,North
+2024-02-29,9262,776,Home & Kitchen,South
+2024-03-01,9447,2242,Clothing,West
+2024-03-02,1901,1513,Clothing,East
+2024-03-03,9861,1005,Electronics,South
+2024-03-04,2883,3491,Clothing,West
+2024-03-05,9331,4091,Books,East
+2024-03-06,3702,2322,Books,South
+2024-03-07,5159,211,Books,South
+2024-03-08,2416,3479,Home & Kitchen,West
+2024-03-09,5963,3973,Clothing,South
+2024-03-10,5873,3251,Clothing,North
+2024-03-11,6121,2044,Electronics,North
+2024-03-12,3582,2600,Home & Kitchen,East
+2024-03-13,1358,512,Home & Kitchen,South
+2024-03-14,2500,4168,Home & Kitchen,North
+2024-03-15,9119,2751,Books,West
+2024-03-16,2938,285,Home & Kitchen,West
+2024-03-17,1814,1676,Clothing,West
+2024-03-18,9787,3258,Electronics,North
+2024-03-19,6066,4177,Clothing,South
+2024-03-20,9418,150,Home & Kitchen,South
+2024-03-21,4835,1269,Electronics,South
+2024-03-22,5912,4550,Books,East
+2024-03-23,7086,135,Electronics,South
+2024-03-24,7294,376,Home & Kitchen,North
+2024-03-25,3064,2564,Home & Kitchen,North
+2024-03-26,3351,988,Electronics,South
+2024-03-27,8364,503,Home & Kitchen,West
+2024-03-28,2364,4709,Home & Kitchen,East
+2024-03-29,2084,2713,Home & Kitchen,East
+2024-03-30,1266,2588,Home & Kitchen,North
+2024-03-31,9151,4085,Electronics,East
+2024-04-01,9226,3139,Electronics,West
+2024-04-02,5881,2222,Clothing,South
+2024-04-03,1067,1272,Books,East
+2024-04-04,1188,4709,Books,East
+2024-04-05,5136,2687,Clothing,North
+2024-04-06,1682,389,Electronics,West
+2024-04-07,4138,2328,Clothing,North
+2024-04-08,4190,2413,Home & Kitchen,North
+2024-04-09,1852,4278,Home & Kitchen,East
